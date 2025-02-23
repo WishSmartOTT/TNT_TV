@@ -52,3 +52,4 @@ https://raw.githubusercontent.com/WishSmartOTT/TNT_TV/refs/heads/main/Streams/Fr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Linux; Android 10; Fire TV Stick) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTINF:-1 xui-id="9692" tvg-id="CNews.fr" tvg-name="FR ★ CNEWS FHD²" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png?h=100" group-title="FR ★ CHAINES  FHD TNT",FR ★ CNEWS FHD²
 https://raw.githubusercontent.com/WishSmartOTT/TNT_TV/refs/heads/main/Streams/France/FHD/cnews_bck_1080.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Linux; Android 10; Fire TV Stick) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
