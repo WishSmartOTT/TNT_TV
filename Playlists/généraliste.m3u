@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1-id="" tvg-name="TF1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d8fa325e3c7d2142d8a75f91ab50be9d.png" group-title="FRANCE",TF1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/153
+#EXTINF:-1-id="" tvg-name="FRANCE 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/000f35fba0292736e6cbd701bb971ac6.png" group-title="FRANCE",FRANCE 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/154
+#EXTINF:-1-id="" tvg-name="FRANCE 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8de14a8c83f4af56dfd86de2b1ad5f55.png" group-title="FRANCE",FRANCE 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/155
+#EXTINF:-1-id="" tvg-name="FRANCE 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80bb3a78bf83aa92a2cbc0063ec2d00d.png" group-title="FRANCE",FRANCE 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/156
+#EXTINF:-1-id="" tvg-name="FRANCE 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/092e2aca4ac357873f858ba49ab406dd.png" group-title="FRANCE",FRANCE 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157
+#EXTINF:-1-id="" tvg-name="M6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2e471c9a55628012ff3b6f4fb8ab3ec3.png" group-title="FRANCE",M6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/158
+#EXTINF:-1-id="" tvg-name="CANAL+" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/224417b4962845144900afd5b142613d.png" group-title="FRANCE",CANAL+
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/170
+#EXTINF:-1-id="" tvg-name="TFX" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/0560d6d37fe3411c2f401dd825fc280f.png" group-title="FRANCE",TFX
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/164
+#EXTINF:-1-id="" tvg-name="TMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c0e06dbfa7f3e61845586c16fba138be.png" group-title="FRANCE",TMC
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/865
+#EXTINF:-1-id="" tvg-name="W9" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/d960d09ece77aae73a8a667e7e31cde6.png" group-title="FRANCE",W9
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/160
+#EXTINF:-1-id="" tvg-name="C8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/eb012988b68fdad23b6bf6a880194edf.png" group-title="FRANCE",C8
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/161
+#EXTINF:-1-id="" tvg-name="ARTE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/37306f7774bbe96a948dc9d923c1db22.png" group-title="FRANCE",ARTE
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/163
+#EXTINF:-1-id="" tvg-name="France Info" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/1aa02cbd771ebfe80bafe31650081dae.png" group-title="FRANCE",France Info
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/159
