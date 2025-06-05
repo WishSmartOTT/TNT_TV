@@ -8,11 +8,6 @@ rDownloadURL = {"main": "https://github.com/emre1393/xtreamui_mirror/releases/la
 rPackages = ["libcurl3", "libxslt1-dev", "libgeoip-dev", "e2fsprogs", "wget", "mcrypt", "nscd", "htop", "zip", "unzip", "mc", "libjemalloc1", "python-paramiko"]
 rInstall = {"MAIN": "main", "LB": "sub"}
 
-rVersions = {
-    "16.04": "xenial",
-    "18.04": "bionic"
-}
-
 class col:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -183,12 +178,6 @@ def start(first=True):
 
 
 if __name__ == "__main__":
-
-    try: rVersion = os.popen('lsb_release -sr').read().strip()
-    except: rVersion = None
-    if not rVersion in rVersions:
-        printc("Unsupported Operating System, Works only on Ubuntu Server 16 and 18")
-        sys.exit(1)
 
     printc("Xtream UI - Installer Mirror", col.OKGREEN, 2)
     print "%s │ Check out the mirror repo: https://bitbucket.org/emre1393/xtreamui_mirror %s" % (col.OKGREEN, col.ENDC)
