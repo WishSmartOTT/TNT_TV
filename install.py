@@ -193,7 +193,7 @@ if __name__ == "__main__":
             print " "
         else:
             rHost = "172.20.0.11"
-            rPassword = f9ef1qOmOQrghZumyH11pw
+            rPassword = "f9ef1qOmOQrghZumyH11pw"
             rServerID = 1
             rAccesscode = generate(12)
 
